@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MathsLine
+comment0.text=\r\n\ Does\ a\ line\ using\ y\=mx+c.\r\n\r\n\ @author\ Bill\ Viggers\r\n\ @version\ 5-May-22\r\n
+comment1.params=
+comment1.target=MathsLine()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plot\r\n
+comment2.params=one\ two\ plot
+comment2.target=void\ MLine(Coordinate,\ Coordinate,\ boolean)
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BresenhamLine
+comment0.text=\r\n\ Does\ a\ line\ using\ Bresenham.\ \ Handles\ shallow\ downward\ lines\r\n\r\n\ @author\ Bill\ Viggers\r\n\ @version\ 5-May-22\r\n\ Adjusted\ 18-May-22\ to\ ensure\ left-right\ coordinates\ and\ \r\n\ \ \ handle\ (shallow)\ downward\ lines\r\n
+comment1.params=
+comment1.target=BresenhamLine()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plot\r\n
+comment2.params=plot
+comment2.target=BresenhamLine(boolean)
+comment3.params=start\ end\ plot
+comment3.target=void\ BLine(Coordinate,\ Coordinate,\ boolean)
+numComments=4
